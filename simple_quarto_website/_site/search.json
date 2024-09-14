@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "This the about file of thie simple quarto project"
   },
   {
     "objectID": "index.html",
@@ -68,5 +68,19 @@
     "title": "Eats and Bites in a Typical Day",
     "section": "Discussion",
     "text": "Discussion\nThe relationship between meal frequency, timing, and health has been extensively studied. While observational studies suggest that more frequent meals are linked to a lower disease risk, experimental research presents mixed findings.[@PROVOSTF2013]."
+  },
+  {
+    "objectID": "about.html#food-production-in-global-sector",
+    "href": "about.html#food-production-in-global-sector",
+    "title": "About",
+    "section": "Food production in Global sector",
+    "text": "Food production in Global sector\nLorem ipsum odor amet, consectetuer adipiscing elit. Natoque mattis aenean et parturient venenatis nisl pulvinar fusce convallis. Viverra varius tempus justo dolor; dis dolor? Mattis sociosqu dictum dignissim erat amet, cubilia eu amet. Commodo curae phasellus aenean nunc natoque. Habitasse nibh varius blandit sit dapibus nam.\n\nCorporated food production companies in the United States\nLorem ipsum odor amet, consectetuer adipiscing elit. Quisque mus rutrum semper dis ut finibus vehicula lacus turpis. Vivamus iaculis magna fringilla egestas varius convallis commodo quam. Parturient hac sapien donec iaculis enim suscipit. Elementum consectetur porttitor posuere diam, vitae tincidunt ligula. Fringilla eget imperdiet varius conubia felis eros. Dignissim lacus lacinia risus nibh lacus natoque donec. Arcu aenean eros mollis senectus nostra arcu.\nConsectetur quisque morbi urna nam non pulvinar. Pharetra sollicitudin ultricies sit feugiat fames. Sociosqu phasellus eleifend montes faucibus dolor nisi cubilia et fringilla. Conubia leo elementum interdum ridiculus, elementum tortor senectus. Congue sem congue euismod porttitor malesuada magna curabitur varius? Tempor tincidunt consectetur facilisis aliquet fringilla.\n\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.array([5,7,8,7,2,17,2,9,4,11,12,9,6])\ny = np.array([99,86,87,88,111,86,103,87,94,78,77,85,86])\n\nplt.scatter(x, y)\nplt.title(\"Production in 2024 across States in the US\")\nplt.xlabel(\"States\")\nplt.ylabel(\"Food Production in 2024 (millions)\")\nplt.show()"
+  },
+  {
+    "objectID": "about.html#food-wastements",
+    "href": "about.html#food-wastements",
+    "title": "About",
+    "section": "Food wastements",
+    "text": "Food wastements\nLorem ipsum odor amet, consectetuer adipiscing elit. Himenaeos etiam vel dignissim at sed eleifend mollis convallis."
   }
 ]
