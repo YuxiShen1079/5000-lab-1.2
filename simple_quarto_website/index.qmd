@@ -1,0 +1,121 @@
+---
+title: "simple_quarto_website"
+author: "Yuxi Shen"
+bibliography: ../reference.bib
+format:
+  html:
+    toc: true
+    toc-location: left
+engine: knitr
+---
+
+- [Foods](#foods)
+  - [Global Specialties]()
+- [Conclusion](#conclusion)
+
+# Foods:
+
+## Global Specialties
+Embark on a culinary journey around the globe with a vibrant array of delicious foods that reflect the rich cultural tapestry of our world. From the spicy street foods of Bangkok to the savory pasta of Italy, every dish tells a story and offers a unique taste of its region. Discover the tantalizing flavors of Moroccan tagines, the delicate artistry of Japanese sushi, and the comforting warmth of Mexican tacos. Each bite not only satisfies the palate but also invites you to experience the diverse traditions and histories that shape these global delicacies.
+
+#### Food around the world;
+Found instruction to construct two column table on Stackoverflow(https://stackoverflow.com/questions/74162212/two-columns-layout-in-quarto/75383017)
+
+
+:::: {.columns}
+
+::: {.column width="70%"}
+**Country**
+
+Bangkoks
+
+Japan
+
+Mexican
+
+Moroccan 
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="20%"}
+**Famous foods**
+
+Spicy street foods 
+
+Sushi
+
+Tacos
+
+Moroccan tagines
+:::
+
+::::
+
+
+Some food introduction content were generate by ChatGPT,[^1] and were Googled online.[^2]
+
+[^1]: ChatGPT 4o mini.
+
+[^2]: google.com.
+
+**Some Pictures and Videos of foods around the world:**
+![Pasta](pasta.jpg)
+![Sushi](sushi.jpg)
+
+{{< video https://www.youtube.com/watch?v=MmW1g5ApLXQ&pp=ygUdcGljeSBzdHJlZXQgZm9vZHMgb2YgQmFuZ2tvayA%3D 
+    title='How's the spicy street foods of Bangkok like?' 
+>}}
+
+### Asian Traditional Foods
+
+Some characteristics of Asian traditional foods: 
+
+- **Diverse Flavors**: Asian traditional foods are renowned for their incredible range of flavors, from the bold spiciness of Thai cuisine to the subtle umami of Japanese dishes.
+- **Rich Heritage**: Each dish carries centuries of culinary tradition, reflecting the unique history and cultural practices of countries like China, India, Japan, Korea, and Vietnam.
+- **Ingredient Variety**: The use of aromatic spices, fresh herbs, and diverse ingredients such as rice, noodles, and seafood brings depth and complexity to Asian cuisines.
+- **Regional Specialties**: Explore regional specialties like Chinese dim sum, Indian curries, Korean BBQ, and Vietnamese pho, each offering a distinct taste and preparation style.
+- **Balancing Elements**: Traditional Asian cooking often emphasizes a balance of flavors—sweet, sour, salty, and spicy—creating harmonious and satisfying meals.
+- **Culinary Techniques**: Time-honored techniques such as stir-frying, steaming, and fermentation play a crucial role in crafting the perfect dish.
+- **Cultural Significance**: Food is deeply embedded in social rituals and celebrations, highlighting its importance beyond just sustenance.
+
+### Interviewees of Food survey(fictional):
+| Name       | Age | Occupation    | Country      |
+|------------|-----|---------------|--------------|
+| Alice Smith | 29  | Graphic Designer | USA          |
+| Raj Patel   | 34  | Software Engineer | India        |
+| Hana Lee    | 22  | Student        | South Korea  |
+| Carlos Gomez | 41  | Chef           | Spain        |
+| Mei Wong    | 27  | Teacher        | China        |
+
+#### More description of interviewees(fictional):
+
+| **Name**      | **Description**                                     |
+|---------------|-----------------------------------------------------|
+| **Alice Smith** | A **_graphic designer_** from the **_USA_**. Her work focuses on digital media and branding. |
+| *Raj Patel*    | A *software engineer* from **India**, specializing in **_mobile app development_**. |
+| **Hana Lee**   | A **_student_** from *South Korea*, majoring in **_international relations_**. |
+| **Carlos Gomez** | A **_chef_** from **Spain**, known for his *traditional tapas* and innovative cuisine. |
+| *Mei Wong*     | A *teacher* from **China**, with a passion for **_ancient literature_** and *modern education* methods. |
+
+Although the interviewee information and responses are all fictional, the age of all recruited interviewees should be a normal distribution. To calculate the normal distribution, we should use this formula: 
+>The probability density function of a normal distribution is given by $( f(x) = \frac{1}{\sqrt{2 \pi \sigma^2}} e^{-\frac{(x - \mu)^2}{2 \sigma^2}} )$, where $\mu$ is the mean and $\sigma$ is the standard deviation.To calculate the mean of a probability distribution:
+
+$$
+\mu = \frac{1}{N} \sum_{i=1}^{N} x_i
+$$
+
+#### Tips of the Must-Have Procedure Choosing a Good Restaurant: 
+```{mermaid}
+%%| fig-width: 6.5
+flowchart LR
+  A[Open a ranking app] --> B(Select the area you are located) --> C(Look at the photos posted) --> D(Choose the one looks good)
+  D --> E{Decision}
+```
+
+# Conclusion:
+
+
+Although foods have no direct relationship with Data Science and all hacking technologies, recommending foods to people from the ranking app is always involved with DS related algorithms. For more information please find over here [@PROVOSTF2013].

@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "Foods\n\nGlobal Specialties\n\nConclusion"
+  },
+  {
+    "objectID": "index.html#global-specialties",
+    "href": "index.html#global-specialties",
+    "title": "simple_quarto_website",
+    "section": "Global Specialties",
+    "text": "Global Specialties\nEmbark on a culinary journey around the globe with a vibrant array of delicious foods that reflect the rich cultural tapestry of our world. From the spicy street foods of Bangkok to the savory pasta of Italy, every dish tells a story and offers a unique taste of its region. Discover the tantalizing flavors of Moroccan tagines, the delicate artistry of Japanese sushi, and the comforting warmth of Mexican tacos. Each bite not only satisfies the palate but also invites you to experience the diverse traditions and histories that shape these global delicacies.\n\nFood around the world;\nFound instruction to construct two column table on Stackoverflow(https://stackoverflow.com/questions/74162212/two-columns-layout-in-quarto/75383017)\n\n\nCountry\nBangkoks\nJapan\nMexican\nMoroccan\n\n\n\nFamous foods\nSpicy street foods\nSushi\nTacos\nMoroccan tagines\n\n\nSome food introduction content were generate by ChatGPT,1 and were Googled online.2\nSome Pictures and Videos of foods around the world:  \n\n\n\nAsian Traditional Foods\nSome characteristics of Asian traditional foods:\n\nDiverse Flavors: Asian traditional foods are renowned for their incredible range of flavors, from the bold spiciness of Thai cuisine to the subtle umami of Japanese dishes.\nRich Heritage: Each dish carries centuries of culinary tradition, reflecting the unique history and cultural practices of countries like China, India, Japan, Korea, and Vietnam.\nIngredient Variety: The use of aromatic spices, fresh herbs, and diverse ingredients such as rice, noodles, and seafood brings depth and complexity to Asian cuisines.\nRegional Specialties: Explore regional specialties like Chinese dim sum, Indian curries, Korean BBQ, and Vietnamese pho, each offering a distinct taste and preparation style.\nBalancing Elements: Traditional Asian cooking often emphasizes a balance of flavors—sweet, sour, salty, and spicy—creating harmonious and satisfying meals.\nCulinary Techniques: Time-honored techniques such as stir-frying, steaming, and fermentation play a crucial role in crafting the perfect dish.\nCultural Significance: Food is deeply embedded in social rituals and celebrations, highlighting its importance beyond just sustenance.\n\n\n\nInterviewees of Food survey(fictional):\n\n\n\nName\nAge\nOccupation\nCountry\n\n\n\n\nAlice Smith\n29\nGraphic Designer\nUSA\n\n\nRaj Patel\n34\nSoftware Engineer\nIndia\n\n\nHana Lee\n22\nStudent\nSouth Korea\n\n\nCarlos Gomez\n41\nChef\nSpain\n\n\nMei Wong\n27\nTeacher\nChina\n\n\n\n\nMore description of interviewees(fictional):\n\n\n\n\n\n\n\nName\nDescription\n\n\n\n\nAlice Smith\nA graphic designer from the USA. Her work focuses on digital media and branding.\n\n\nRaj Patel\nA software engineer from India, specializing in mobile app development.\n\n\nHana Lee\nA student from South Korea, majoring in international relations.\n\n\nCarlos Gomez\nA chef from Spain, known for his traditional tapas and innovative cuisine.\n\n\nMei Wong\nA teacher from China, with a passion for ancient literature and modern education methods.\n\n\n\nAlthough the interviewee information and responses are all fictional, the age of all recruited interviewees should be a normal distribution. To calculate the normal distribution, we should use this formula: &gt;The probability density function of a normal distribution is given by \\(( f(x) = \\frac{1}{\\sqrt{2 \\pi \\sigma^2}} e^{-\\frac{(x - \\mu)^2}{2 \\sigma^2}} )\\), where \\(\\mu\\) is the mean and \\(\\sigma\\) is the standard deviation.To calculate the mean of a probability distribution:\n\\[\n\\mu = \\frac{1}{N} \\sum_{i=1}^{N} x_i\n\\]\n\n\nTips of the Must-Have Procedure Choosing a Good Restaurant:\n\n\n\n\n\nflowchart LR\n  A[Open a ranking app] --&gt; B(Select the area you are located) --&gt; C(Look at the photos posted) --&gt; D(Choose the one looks good)\n  D --&gt; E{Decision}"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nChatGPT 4o mini.↩︎\ngoogle.com.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#food-consumption-of-a-normal-person",
+    "href": "slides/slides.html#food-consumption-of-a-normal-person",
+    "title": "Eats and Bites in a Typical Day",
+    "section": "Food consumption of a normal person",
+    "text": "Food consumption of a normal person"
+  },
+  {
+    "objectID": "slides/slides.html#breakfast-brunch",
+    "href": "slides/slides.html#breakfast-brunch",
+    "title": "Eats and Bites in a Typical Day",
+    "section": "breakfast & brunch",
+    "text": "breakfast & brunch\n\nScrambled eggs\nBacon or sausage  ## Lunch\nA Turkey sandwich on whole wheat bread with BLT (Panera Sandwich for example)\n\n\n\nLunch\n\n\nSide of patota cipes\nCoffee"
+  },
+  {
+    "objectID": "slides/slides.html#dinner",
+    "href": "slides/slides.html#dinner",
+    "title": "Eats and Bites in a Typical Day",
+    "section": "Dinner",
+    "text": "Dinner\n\nTomato Basil Meatball spaghetti\nOrange Juice"
+  },
+  {
+    "objectID": "slides/slides.html#before-going-to-sleep",
+    "href": "slides/slides.html#before-going-to-sleep",
+    "title": "Eats and Bites in a Typical Day",
+    "section": "Before going to sleep",
+    "text": "Before going to sleep\n\nGlass of milk"
+  },
+  {
+    "objectID": "slides/slides.html#summarization-of-calories-intake-during-a-day",
+    "href": "slides/slides.html#summarization-of-calories-intake-during-a-day",
+    "title": "Eats and Bites in a Typical Day",
+    "section": "Summarization of Calories intake during a day",
+    "text": "Summarization of Calories intake during a day"
+  },
+  {
+    "objectID": "slides/slides.html#discussion",
+    "href": "slides/slides.html#discussion",
+    "title": "Eats and Bites in a Typical Day",
+    "section": "Discussion",
+    "text": "Discussion\nThe relationship between meal frequency, timing, and health has been extensively studied. While observational studies suggest that more frequent meals are linked to a lower disease risk, experimental research presents mixed findings.[@PROVOSTF2013]."
+  }
+]
